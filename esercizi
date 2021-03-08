@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="container">
+      <h1>WELLM@IL</h1>
+<hr>
+    <header>
+      <!--logo e testo-->
+
+      <img class= "logo" src= "logo_posta.png">
+      <span class = "logo-text" >EMAIL</span>
+
+    </header>
+<nav>
+  <input type="text" placeholder= "search">
+  <button type="button"> GO </button>
+</nav>
+<hr>
+  <h2>YOU HAVE <span id="title">150</span> EMAIL</h2>
+  <hr>
+
+<div class="container2">
+  <div class "row-left">
+    <input type="checkbox" >
+  </div>
+
+ <div class= "row-right">
+ <span>ccc</span>
+</div>
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+
+  </body>
+</html>
